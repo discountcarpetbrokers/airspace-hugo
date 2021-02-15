@@ -13,7 +13,7 @@ sections:
 - type: heading
   label: About Us
 - type: directory
-  path: exampleSite/content/english/custom/about
+  path: exampleSite/content/english/about
   label: About
   create: all
   match: "*"
