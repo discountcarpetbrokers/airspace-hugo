@@ -49,7 +49,7 @@ URL = "flooring"
 name = "Flooring"
 weight = "3"
 [[Languages.en.menu.main]]
-URL = "about/about-us"
+URL = "about/about-us.md"
 name = "About"
 weight = "4"
 [[Languages.en.menu.main]]
