@@ -61,11 +61,11 @@ URL = "blog"
 name = "Blog"
 weight = "6"
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = ""
+copyright = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [Languages.fr.menu]
 footer = []
 main = []
