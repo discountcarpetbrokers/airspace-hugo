@@ -13,10 +13,10 @@ sections:
 - type: heading
   label: About Us
 - type: directory
-  path: ''
+  path: about
   label: About
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
