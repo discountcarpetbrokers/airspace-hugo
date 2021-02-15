@@ -12,9 +12,10 @@ sections:
   label: Brands
 - type: heading
   label: About Us
-- type: document
-  path: about
-  label: About Us
+- type: directory
+  path: ''
+  label: About
+  create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/english/contact
