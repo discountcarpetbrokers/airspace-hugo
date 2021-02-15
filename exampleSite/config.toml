@@ -25,7 +25,7 @@ URL = "flooring"
 name = "Flooring"
 weight = "3"
 [[Languages.en.menu.footer]]
-URL = "about/about-us.md"
+URL = "english/custom/about/about-us.md"
 name = "About"
 weight = "4"
 [[Languages.en.menu.footer]]
