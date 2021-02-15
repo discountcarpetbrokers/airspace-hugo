@@ -74,12 +74,12 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Discount Carpet Brokers"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Discount Carpet Brokers Scottsdale AZ"
+email = "admin@discountcarpetbrokersaz.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "14455 N 79th St #H Scottsdale, AZ 85260"
 logo = "images/logo.png"
 logo_width = "150px"
 mobile = "0124857985320"
