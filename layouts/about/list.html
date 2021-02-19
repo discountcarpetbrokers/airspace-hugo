@@ -79,7 +79,10 @@
             {{ range $data.homepage.funfacts.testimonial_slider }}
             <div>
               <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>              
+              <p>"{{ .content | markdownify }}"</p>
+              <div class="user">
+                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+              </div>              
             </div>
             {{ end }}
           </div>
