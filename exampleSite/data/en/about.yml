@@ -30,7 +30,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepently owned and operatored"
+  title : "We are indepently owned and operated"
   feature_item:
     # feature item loop
     - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
