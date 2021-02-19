@@ -10,7 +10,7 @@ about:
           consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
           nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
           officia adipisci neque!"
-  image : "images/company/company-group-pic.jpg"
+  image : "images/storefront.png"
 
 
 ########################## featured service ############################
@@ -18,20 +18,20 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
+    - name : "Service One"
+      icon : "ion-leaf"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
     # featured service item loop
-    - name : "Product Branding"
+    - name : "Service Two"
       icon : "ion-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
     # featured service item loop
-    - name : "Game Development"
-      icon : "ion-lightbulb"
+    - name : "Service Three"
+      icon : "ion-leaf"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
