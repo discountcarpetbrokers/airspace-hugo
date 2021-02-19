@@ -17,4 +17,3 @@ fields:
   default: "/images/storefront.PNG"
 pages:
 - exampleSite/content/english/about/_index.md
-- exampleSite/content/english/brands/major-brands.md
