@@ -10,6 +10,6 @@ title = "Incredible Brands"
 type = "post"
 
 +++
-Test content here
+Test content here more content blah blah![](/images/carpetswatch.png)
 
-![](/images/carpetswatch.png)
+![](/images/storefront.PNG)
