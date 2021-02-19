@@ -11,3 +11,7 @@ type = "post"
 
 +++
 here is the text here
+
+![](/images/storefront.PNG)
+
+[http://www.shawfloors.com](http://www.shawfloors.com "Go to man")
