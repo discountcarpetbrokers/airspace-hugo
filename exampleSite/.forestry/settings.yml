@@ -10,6 +10,11 @@ sections:
   label: Flooring
 - type: heading
   label: Brands
+- type: directory
+  path: exampleSite/content/english/brands
+  label: Brands
+  create: all
+  match: "**/*"
 - type: heading
   label: About Us
 - type: directory
